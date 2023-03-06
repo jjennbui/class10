@@ -1,10 +1,10 @@
-##language translation
+## language translation
 
-##Languages
+## Languages
 - english
 - french
 
-##installations
+## installations
 ```
 npm install next-i18next
 ```
